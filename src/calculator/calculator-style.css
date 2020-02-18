@@ -1,0 +1,26 @@
+body{
+    background: gold
+}
+* {
+    box-sizing: border-box;
+}
+.wrap{
+    width: 400px;
+    margin: auto;
+    height: auto;
+    background: green;
+    padding: 15px;
+}
+input [ type=text ] {
+    width: 100%;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+
+
+
+}
